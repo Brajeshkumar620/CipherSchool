@@ -1,0 +1,12 @@
+*GIT Class-5 Overview**
+
+1. `git branch`: This command is used to list all the branches in your repository.
+
+git checkout -b branch_name//---  It created a branch    Similarly we can create multiple branch
+2. `git merge dev1`: This command is used to merge the changes from the 'dev1' branch into the current branch, which is typically the 'Master' or 'Main' branch.
+
+git merge master 
+3. `git branch -d BRANCH_NAME`: This command is used to delete a specified branch, but it should only be used after committing your changes.
+
+git branch -d branch_name
+4. It's important to note that the 'Master' or 'Main' branch cannot be deleted.
