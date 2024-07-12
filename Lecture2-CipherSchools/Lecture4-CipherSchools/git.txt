@@ -1,0 +1,15 @@
+GIT COMMAND Class-4
+
+git revert  (revert to some point of time OPEN VI editor)
+git revert (commit id)/-- got to that stages with  vi editor with accesss of modification
+
+git reset TRACK_ID --hard/--soft FLAGS 
+
+git checkout -b BRANCH_NAME (create and take to that branch)
+
+git checkout BRANCH_NAME (take to that branch)
+
+git reset(commit id)/-- it will give a  second chance to revert back of files
+
+
+
